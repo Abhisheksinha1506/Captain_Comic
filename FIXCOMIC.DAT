@@ -1,0 +1,15 @@
+R ES
+2000
+N NC1.PRG
+L ES:0
+R BX
+0
+R CX
+8000
+N R0
+W ES:6
+N R1
+W ES:800C
+Q
+
+
